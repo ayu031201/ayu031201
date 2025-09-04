@@ -24,7 +24,7 @@
 ---
 
 ## 📌 Featured Projects
-- **[StackConnect](https://stackconnect-r3qa.onrender.com/)** - Full-stack  Django web application featuring asking, answering, voting mechanism on Stack Overflow questions.
+- **[StackConnect](https://github.com/ayu031201/StackConnect)** - Full-stack  Django web application featuring asking, answering, voting mechanism on Stack Overflow questions.
 - **[Gmail Clone](https://github.com/ayu031201/gmail-clone)** – Full-stack email app with real-time updates  
 - **[Algorithmic Problem Library](https://github.com/ayu031201/problem-library)** – 300+ curated problems for assessments  
 
