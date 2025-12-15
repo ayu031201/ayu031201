@@ -2,7 +2,7 @@
 
 🎓 **Mathematics & Computing graduate** from IIT BHU  
 💻 **Software Developer** | Backend & Full-Stack Enthusiast  
-🏆 Candidate Master on Codeforces | 6⭐ on CodeChef  
+🏆 Candidate Master on Codeforces | 5⭐ on CodeChef  
 
 ---
 
